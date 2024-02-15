@@ -34,7 +34,7 @@ Clone este repositório:
 git clone https://github.com/lealsuza/react-stock.git
 
 Instale as dependências:
-``` cd seu-projeto ```
+``` cd react-stock ```
 ``` npm install ```
 
 Execute o aplicativo em modo de desenvolvimento:
