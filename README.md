@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto é um dashboard construído com Vite, React e React Router para monitorar a diversidade de itens em um inventário. Ele fornece informações sobre a quantidade total de itens, os itens mais recentes e os itens que estão acabando em estoque. Além disso, o projeto inclui páginas para visualizar todos os itens existentes e para criar novos itens, especificando nome, quantidade, preço, categoria e descrição.
+Este projeto é um dashboard construído com Vite, React e React Router para monitorar e criar o estoque de itens em um inventário. 
 
 ## Tecnologias Utilizadas
 
