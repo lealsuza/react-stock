@@ -10,7 +10,7 @@ Este projeto é um dashboard construído com Vite, React e React Router para mon
 - React: Uma biblioteca JavaScript para criar interfaces de usuário.
 - React Router: Uma biblioteca de roteamento para React.
 
-## Hooks Utilizados:
+## Hooks Utilizados
 
 - useContext: Para compartilhamento de estado entre componentes.
 - useState: Para gerenciar o estado local do componente.
