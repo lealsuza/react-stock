@@ -10,7 +10,8 @@ Este projeto é um dashboard construído com Vite, React e React Router para mon
 - React: Uma biblioteca JavaScript para criar interfaces de usuário.
 - React Router: Uma biblioteca de roteamento para React.
 
-## Hooks utilizados:
+## Hooks Utilizados:
+
 - useContext: Para compartilhamento de estado entre componentes.
 - useState: Para gerenciar o estado local do componente.
 - useRef: Para acessar o estado de um componente React sem causar uma nova renderização.
@@ -18,7 +19,7 @@ Este projeto é um dashboard construído com Vite, React e React Router para mon
 
 ## Funcionalidades
 
-- Contem um Dashboard Principal que exibe a quantidade total de itens no inventário.
+- Contêm um Dashboard Principal que exibe a quantidade total de itens no inventário.
 - Mostra uma visão geral da diversidade de itens, do inventario total, dos itens mais recentes e dos itens que estão acabando.
 
 - Uma página que lista todos os itens existentes no inventário.
