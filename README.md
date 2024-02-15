@@ -18,15 +18,11 @@ Este projeto é um dashboard construído com Vite, React e React Router para mon
 
 ## Funcionalidades
 
-Dashboard Principal
-
-- Exibe a quantidade total de itens no inventário.
-- Mostra uma visão geral dos itens mais recentes e dos itens que estão acabando.
-- Visualização de Todos os Itens
+- Contem um Dashboard Principal que exibe a quantidade total de itens no inventário.
+- Mostra uma visão geral da diversidade de itens, do inventario total, dos itens mais recentes e dos itens que estão acabando.
 
 - Uma página que lista todos os itens existentes no inventário.
 - Fornece detalhes como nome, quantidade, preço, categoria e descrição para cada item.
-- Criação de Novos Itens
 
 - Página dedicada para criar novos itens.
 - Formulário interativo para adicionar informações essenciais, como nome, quantidade, preço, categoria e descrição.
