@@ -1,8 +1,55 @@
-# React + Vite
+# Projeto Dashboard com criação de itens
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Visão Geral
 
-Currently, two official plugins are available:
+Este projeto é um dashboard construído com Vite, React e React Router para monitorar a diversidade de itens em um inventário. Ele fornece informações sobre a quantidade total de itens, os itens mais recentes e os itens que estão acabando em estoque. Além disso, o projeto inclui páginas para visualizar todos os itens existentes e para criar novos itens, especificando nome, quantidade, preço, categoria e descrição.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+- Vite: Um construtor de aplicativos React rápido e flexível.
+- React: Uma biblioteca JavaScript para criar interfaces de usuário.
+- React Router: Uma biblioteca de roteamento para React.
+
+## Hooks utilizados:
+- useContext: Para compartilhamento de estado entre componentes.
+- useState: Para gerenciar o estado local do componente.
+- useRef: Para acessar o estado de um componente React sem causar uma nova renderização.
+- useParams: Para acessar parâmetros de rota.
+
+## Funcionalidades
+
+Dashboard Principal
+
+- Exibe a quantidade total de itens no inventário.
+- Mostra uma visão geral dos itens mais recentes e dos itens que estão acabando.
+- Visualização de Todos os Itens
+
+- Uma página que lista todos os itens existentes no inventário.
+- Fornece detalhes como nome, quantidade, preço, categoria e descrição para cada item.
+- Criação de Novos Itens
+
+- Página dedicada para criar novos itens.
+- Formulário interativo para adicionar informações essenciais, como nome, quantidade, preço, categoria e descrição.
+
+## Como Executar o Projeto
+
+Clone este repositório:
+git clone https://github.com/lealsuza/react-stock.git
+
+Instale as dependências:
+``` cd seu-projeto ```
+``` npm install ```
+
+Execute o aplicativo em modo de desenvolvimento:
+``` npm run dev ```
+
+Abra http://localhost:3000 no seu navegador para visualizar o aplicativo.
+
+## Contribuindo
+
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir issues, enviar pull requests ou fornecer feedback.
+
+<div align="center">
+  <p>🤟</p>
+  <p><b>Happy coding!</b></p>
+</div>
